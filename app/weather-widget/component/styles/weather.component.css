@@ -1,0 +1,36 @@
+.card {
+    box-shadow: 2px 2px 5px rgba(0,0,0,.24);
+}
+
+.card,
+.card-header,
+.card-footer {
+    border: none;
+    border-radius: 0;
+    background-color: #00bdc4;
+    color: #fff;
+}
+
+.card-header p {
+    padding-top: .4rem;
+}
+
+.card-header,
+.card-footer {
+    padding: 1rem .5rem;
+}
+
+.card-block {
+    padding: 3rem;
+}
+
+.card-block,
+.card-footer {
+    text-align: center;
+}
+
+p {
+    margin: .2rem;
+    text-transform: uppercase;
+}
+
